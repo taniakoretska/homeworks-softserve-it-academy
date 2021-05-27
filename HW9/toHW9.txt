@@ -1,0 +1,10 @@
+The shapes, which area are in range [10 - 100]: 
+Name: circle1, Area: 63.62
+Name: square2, Area: 32.15
+Name: circle3, Area: 17.35
+Name: square3, Area: 77.44
+
+The list of shapes names, which contains letter 'a': 
+square1
+square2
+square3
