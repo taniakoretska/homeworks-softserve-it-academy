@@ -1,0 +1,24 @@
+Directories: 
+C:\$RECYCLE.BIN
+C:\$WinREAgent
+C:\Config.Msi
+C:\Dell
+C:\Documents and Settings
+C:\Intel
+C:\MSOCache
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\totalcmd
+C:\Users
+C:\Windows
+
+Files: 
+C:\data.txt is  0.08 KB.
+C:\DumpStack.log.tmp is  8.00 KB.
+C:\hiberfil.sys is  6652224.00 KB.
+C:\pagefile.sys is  2490368.00 KB.
+C:\rez.txt is  0.08 KB.
+C:\swapfile.sys is  16384.00 KB.

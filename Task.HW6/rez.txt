@@ -1,0 +1,4 @@
+Hello!
+My name is Tania.
+I am student of SoftServe IT Academy.
+I am learning C#.
